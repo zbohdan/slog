@@ -11,7 +11,7 @@ const c = {
 
 function slog(logParams, color) {
   const stringToParse = logParams[0];
-  const resolvedColor = color ?? c.red;
+  const resolvedColor = color ?? c.aquamarine;
 
   const startMark = '{';
   const endMark = '}';
