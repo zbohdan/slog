@@ -1,0 +1,14 @@
+{
+  "name": "@zinya/slog",
+  "version": "1.0.0",
+  "description": "simple logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Bohdan Zinchenko",
+  "license": "ISC"
+}
