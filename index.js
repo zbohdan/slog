@@ -1,8 +1,12 @@
 const c = {
-  red: 'red',
-  green: 'green',
-  yellow: 'yellow',
-  blue: 'blue',
+  aquamarine: 'aquamarine',
+  palegreen: 'palegreen',
+  pink: 'pink',
+  violet: 'violet',
+  khaki: 'khaki',
+  lightskyblue: 'lightskyblue',
+  navajowhite: 'navajowhite',
+  lightgray: 'lightgray',
 }
 
 function slog(logParams, color) {
